@@ -6,8 +6,9 @@ Python client for dataquality.pl
 .. image:: https://img.shields.io/pypi/v/dq_client.svg
         :target: https://pypi.python.org/pypi/dq-client
 
-.. image:: https://img.shields.io/travis/Algolytics/dq_client.svg
+.. image:: https://github.com/biamat-algo/dq_copy_biamat/actions/workflows/python-package-conda.yml/badge.svg
         :target: https://travis-ci.org/Algolytics/dq_client
+        :alt: GitHub Badge test
 
 .. image:: https://readthedocs.org/projects/dq-client/badge/?version=latest
         :target: https://dq-client.readthedocs.io/en/latest/?badge=latest
